@@ -1,0 +1,13 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
+
+.btn-status {
+  font-size: 0.85rem;
+  padding: 4px 8px;
+}
