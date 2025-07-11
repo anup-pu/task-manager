@@ -38,11 +38,6 @@ src/
 └── test/
 └── java/com/taskmanager/...
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ How to Run
 
@@ -60,9 +55,7 @@ cd task-manager
 Then open: http://localhost:8080/index.html
 
 🧪 Run Tests
-bash
-Copy
-Edit
+
 ./mvnw test
 Unit tests are inside src/test/java/com/taskmanager/...
 
